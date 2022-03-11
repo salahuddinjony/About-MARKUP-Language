@@ -1,11 +1,4 @@
----
-layout: post
-title: "যে ভাবে শিখবেন মার্কডাউন মার্কাপ ল্যাংগুয়েজ ।"
-date: 2019-02-24
-excerpt: "চার মিনিটে মার্কডাউন মার্কাপ ল্যাংগুয়েজ."
-tags: [sample post, readability, test]
-comments: true
----
+
 ![mark up](https://cdn-images-1.medium.com/max/800/1*KLvPfJ6Ui3cZQd4Zj17kJg.png)
 
 
